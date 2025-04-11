@@ -3,7 +3,7 @@ name: OpenAiCodeReview
 on:
   push:
     branches:
-      - '*'name: OpenAiCodeReview
+      - '*'
 
 on:
   push:
